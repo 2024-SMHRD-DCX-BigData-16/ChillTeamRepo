@@ -12,6 +12,10 @@ public class Ex01 {
 		System.out.println("팀장 네번째 커밋");
 		System.out.println("헐렝방구");
 
+		System.out.println("어려워잉");
+		System.out.println("컨트롤 c 누르면 다시 무시하고 아래로 내려갑니동~");
+		System.out.println("pull 해라ㅡㅡ;");
+
 	}
 
 }
